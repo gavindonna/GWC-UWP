@@ -1,3 +1,2 @@
 # GWC-UWP.github.io
-![GWC-UWP_logo](https://github.com/gavindonna/GWC-UWP.github.io/assets/29665784/6b809d9e-d8fa-4cda-a1ed-4b91e14d92ed)
-
+![GWC-UWP_logo4](https://github.com/gavindonna/GWC-UWP.github.io/assets/29665784/53089e71-3278-41e8-ac78-ff0703ae81ca)
