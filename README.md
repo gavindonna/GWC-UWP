@@ -1,3 +1,4 @@
 # GWC-UWP.github.io
-![GWC-UWP_logo3](https://github.com/gavindonna/GWC-UWP.github.io/assets/29665784/a828ae3a-364f-4d90-90d0-6f2b3486f700)
+![MichiganGWClogo (1)](https://github.com/gavindonna/GWC-UWP.github.io/assets/29665784/6892dc9b-805f-4c14-bdad-5f2fcc536c19)
+
 
