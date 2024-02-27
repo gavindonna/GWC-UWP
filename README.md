@@ -14,7 +14,6 @@ Due to the expertise of our undergraduate student Facilitators, our club curricu
       <li><a href="functions_methods_packages.md">Functions, Methods, Packages</a></li>
       <li><a href="learning-resources.md">Resources for learners</a></li>
     </ul>
-  </li>
   <li>For All</li>
   <ul>
     <li><a href="debugging-the-gender-gap.md">Debugging the Gender Gap</a></li>
