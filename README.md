@@ -1,4 +1,3 @@
-<h1>GWC-UWP</h1>
 <img src="GWC-UWP.png" alt="drawing" width="450"/><p>
 A meta-repository to help navigate the repos and resources of Girls Who Code at UW-Platteville.
 
