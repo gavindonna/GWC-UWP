@@ -16,7 +16,6 @@ Due to the expertise of our undergraduate student Facilitators, our club curricu
   <li>March 3, 10, 17, 31</li>
   <li>April 7, 14, 28</li>
   <li>May 5 - GWC Expo</li>
-</ul>
 
 <h3>Here is a link to register for the Girls Who Code Club:</h3>
 <table style="width:100%">
