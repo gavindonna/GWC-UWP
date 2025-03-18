@@ -7,6 +7,11 @@ Founded by Professor Emerita Donna M Gavin and undergraduate women computer scie
 
 Due to the expertise of our undergraduate student Facilitators, our club curriculum is focused on the Python programming language. Participants learn core coding concepts and implement their new skills in a capstone project of their choosing.
 
+<h2>Register for the Girls Who Code Club</h2>
+Here is a link to register for the Girls Who Code Club: 
+<a href="app.campdoc.com/register/uwplatteville/girlswhocodefull">UWP Girls Who Code Club</a>
+<img src="url" alt="alternatetext">
+
 <h2>Additonal Resources</h2>
 <ul>
   <li>For learners</li>
