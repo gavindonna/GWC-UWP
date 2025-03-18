@@ -19,8 +19,14 @@ Due to the expertise of our undergraduate student Facilitators, our club curricu
 </ul>
 
 <h3>Here is a link to register for the Girls Who Code Club:</h3>
-<p><a href="https://app.campdoc.com/register/uwplatteville/girlswhocodefull">UWP Girls Who Code Club</a></p>
-<img src="GWC_QR_CODE.png" alt="UWP Girls Who Code Registration on Camp Doc">
+<table style="width:100%">
+  <tr>
+    <td style="width:70%"><p><a href="https://app.campdoc.com/register/uwplatteville/girlswhocodefull">UWP Girls Who Code Club</a></p></td>
+    <td><img src="GWC_QR_CODE.png" alt="UWP Girls Who Code Registration on Camp Doc"></td>
+  </tr>
+</table>
+
+
 
 <h2>Additonal Resources</h2>
 <ul>
