@@ -8,15 +8,19 @@ Founded by Professor Emerita Donna M Gavin and undergraduate women computer scie
 Due to the expertise of our undergraduate student Facilitators, our club curriculum is focused on the Python programming language. Participants learn core coding concepts and implement their new skills in a capstone project of their choosing.
 
 <h2>Register for the Girls Who Code Club</h2>
-Here is a link to register for the Girls Who Code Club: 
-<a href="https://app.campdoc.com/register/uwplatteville/girlswhocodefull">UWP Girls Who Code Club</a>
+
+<h3>Meeting Dates for Spring 2025:</h3>
+<h4>Mondays 4:00 - 5:30 pm in the Hillmen Conference Room at Platteville High School</h4>
+<h4>Dates</h4>
+  <li>February 10, 17, 24</li>
+  <li>March 3, 10, 17, 31</li>
+  <li>April 7, 14, 28</li>
+  <li>May 5 - GWC Expo</li>
+</ul>
+
+<h3>Here is a link to register for the Girls Who Code Club:</h3>
+<p><a href="https://app.campdoc.com/register/uwplatteville/girlswhocodefull">UWP Girls Who Code Club</a></p>
 <img src="GWC_QR_CODE.png" alt="UWP Girls Who Code Registration on Camp Doc">
-Meeting Dates for Spring 2025:
-Mondays 4:00 - 5:30 pm in the Hillmen Conference Room at Platteville High School
-February 10, 17, 24
-March 3, 10, 17, 31
-April 7, 14, 28
-May 5 - GWC Expo
 
 <h2>Additonal Resources</h2>
 <ul>
