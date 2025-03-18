@@ -9,7 +9,7 @@ Due to the expertise of our undergraduate student Facilitators, our club curricu
 
 <h2>Register for the Girls Who Code Club</h2>
 Here is a link to register for the Girls Who Code Club: 
-<a href="app.campdoc.com/register/uwplatteville/girlswhocodefull">UWP Girls Who Code Club</a>
+<a href="https://app.campdoc.com/register/uwplatteville/girlswhocodefull">UWP Girls Who Code Club</a>
 <img src="GWC_QR_CODE.png" alt="UWP Girls Who Code Registration on Camp Doc">
 Meeting Dates for Spring 2025:
 Mondays 4:00 - 5:30 pm in the Hillmen Conference Room at Platteville High School
