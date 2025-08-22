@@ -38,7 +38,7 @@ Due to the expertise of our undergraduate student Facilitators, our club curricu
     </ul>
   <li>For All</li>
   <ul>
-    <li><a href="debugging-the-gender-gap.md">Debugging the Gender Gap</a></li>
+    <li><a href="debugging-the-gender-gap.html">Debugging the Gender Gap</a></li>
   </ul>
 </ul>
 <h2>Get Involved</h2>
