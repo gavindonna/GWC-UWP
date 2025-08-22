@@ -36,7 +36,9 @@
 <li> Coding Critters https://www.learningresources.com/coding-critters-your-first-coding-friends</li>
 
 <h2> Resources for confidence/empowerment </h2>
+<ul>
 <li> Amy Cuddy’s Power Poses https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?language=en (Article: Cuddy, A. J., Wilmuth, C. A., & Carney, D. R. (2012). The benefit of power posing before a high-stakes social evaluation. Harvard Business School working paper series# 13-027.)</li>
+</ul>
 
 <h2> Call to Action</h2>
 <ol>
