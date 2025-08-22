@@ -32,9 +32,9 @@ Due to the expertise of our undergraduate student Facilitators, our club curricu
 <ul>
   <li>For learners</li>
     <ul>
-      <li><a href="troubleshooting-checklist.md">Troubleshooting checklist</a></li>
-      <li><a href="functions_methods_packages.md">Functions, Methods, Packages</a></li>
-      <li><a href="learning-resources.md">Resources for learners</a></li>
+      <li><a href="troubleshooting-checklist.html">Troubleshooting checklist</a></li>
+      <li><a href="functions_methods_packages.html">Functions, Methods, Packages</a></li>
+      <li><a href="learning-resources.html">Resources for learners</a></li>
     </ul>
   <li>For All</li>
   <ul>
