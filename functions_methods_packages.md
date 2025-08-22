@@ -1,4 +1,4 @@
-## Functions
+<h1>Python Functions</h1>
 
 print()  
 type()  
@@ -45,13 +45,13 @@ dict()
 np.log10()  
 pd.read_csv()  
 
-## Packages
+<h2>Python Packages</h2>
 
 import matplotlib.pyplot as plt  
 import numpy as np  
 import pandas as pd  
 
-## Methods
+<h2> Python Methods</h2>
 
 .append()  
 .toList()  
@@ -76,11 +76,11 @@ import pandas as pd
 .to_excel()  
 .plot()  
 
-Remember: Methods are functions but functions are not always methods
+<h3> Remember: Methods are functions but functions are not always methods </h3>
 
-## Attributes
+<h2> Python Attributes</h2>
 
 df.values  
 df.columns  
 
-Documentation: https://www.python.org/doc/
+<h2> Pythong Documentation: https://www.python.org/doc/</h2>
